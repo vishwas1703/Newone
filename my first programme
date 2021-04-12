@@ -1,1 +1,6 @@
-i like to push this to git
+#include<stdio.h>
+int main()
+{
+printf("Hi,this is my first code to run in visual studio");
+return 0;
+}
