@@ -1,0 +1,5 @@
+import memory
+
+def test_plan():
+  output=add(2,3)
+  assert output==5
