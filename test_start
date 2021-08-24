@@ -1,4 +1,6 @@
-import memory
+import pytest
+def add(a,b):
+  return a+b
 
 def test_plan():
   output=add(2,3)
