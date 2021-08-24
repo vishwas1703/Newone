@@ -7,6 +7,12 @@ time - 6:30 am
 """
 
 def add(a_n,b_n):
+    """
+
+    :param a_n: number1
+    :param b_n: number2
+    :return: sum
+    """
     return a_n+b_n
 a_num=int(input())
 b_num=int(input())
